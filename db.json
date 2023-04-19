@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": 12
     },
     {
       "id": 4,
@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Sophia Super Flower",
+      "image": "https://pbs.twimg.com/profile_images/906732266856075264/ySG-OQ9d_400x400.jpg",
+      "price": "100000000000",
+      "id": 8
     }
   ]
 }
